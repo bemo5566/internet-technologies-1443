@@ -1,0 +1,163 @@
+<!doctype html>
+<html>
+
+<head>
+<title> Javascript  </title>
+<style>
+h1.spec {
+color:brown;
+}
+h2.spec {
+color:brown;
+}
+p.important {
+color:red;
+}
+
+
+
+
+
+</style>
+</head>
+
+<body>
+
+<header>
+<nav>
+  <a href="#Javascript">Javascript</a> |
+  <a href="#Introduction">Introduction</a> |
+  <a href="#History">History</a> |
+  <a href="#Features">Features</a>|
+  <a href="#Development tools">Development tools</a>|
+   <a href="#Version history">Version history</a>
+</nav>
+
+
+</header>
+
+
+<hr>
+
+<main>
+
+<article>
+
+<h1 id="Javascript" class="spec"><a name= "Javascript"></a> Javascript</h1>
+<p>is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. Over 97% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.</p>
+
+<h2 id="Introduction" class="spec"><a name= "Introduction"></a>Introduction </h2>
+<img src ="javas.JPEG "height="100%" width="20%"  alt=""  style ="float:right" />
+
+<p> JavaScript is a lightweight, cross-platform, and interpreted scripting language. It is well-known for the development of web pages, 
+many non-browser environments also use it. 
+JavaScript can be used for Client-side developments as well as Server-side developments.
+ JavaScript contains a standard library of objects, like Array, Date, and Math, 
+ and a core set of language elements like operators, control structures, and statements.</p>
+ 
+ 
+<h2 id="History" class="spec"><a name= "History"></a> History</h2>
+
+<p>The first web browser with a graphical user interface, Mosaic, was released in 1993. Accessible to non-technical people,
+ it played a prominent role in the rapid growth of the nascent World Wide Web.
+ The lead developers of Mosaic then founded the Netscape corporation, which released a more polished browser, Netscape Navigator, in 1994.
+ This quickly became the most-used.
+During these formative years of the Web, web pages could only be static, lacking the capability for dynamic behavior after the page was loaded in the browser. 
+There was a desire in the burgeoning web development scene to remove this limitation, so in 1995, Netscape decided to add a scripting language to Navigator.
+ They pursued two routes to achieve this: collaborating with Sun Microsystems to embed the Java programming language,
+ while also hiring Brendan Eich to embed the Scheme language.</p>
+ 
+ 
+<h2 id="Features" class="spec"><a name= "Features"> </a> Features </h2>
+ 
+ <ol>
+ <li> Universal support </li>
+ <li> Imperative and structured </li>
+ <li> Dynamic typing </li>
+ <li> Object-oriented or prototype-based </li>
+ </ol>
+ 
+ <h2 id="Development tools" class="spec"><a name= "Development tools"></a>Development tools </h2>
+ 
+ <ul> 
+ <li> Brackets.io </li>
+ <li> Notepad++ </li>
+ <li> Sublime Text </li>
+ </ul>
+ 
+<h2 id="version history" class="spec"><a name= "Version history"></a> Version history </h2>
+ 
+ <table border="2" >
+ <tr>
+ <td> Verion</td>
+ <td> Release date </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.0 </td>
+ <td> March 1996 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.1 </td>
+ <td> August 1996 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.2 </td>
+ <td> June 1997 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.3 </td>
+ <td> October 1998 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.4 </td>
+ <td>  </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.5 </td>
+ <td> November 2000 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.6 </td>
+ <td> November 2005 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.7 </td>
+ <td> October 2006 </td>
+ 
+ </tr>
+ 
+ <tr>
+ <td> 1.8 </td>
+ <td> June 2008 </td>
+ 
+ </tr>
+ 
+ 
+ </table>
+
+
+
+
+ 
+ <hr>
+ 
+ <p class="important"> the information in this web page is cooected and summurized from wikipedia</p>
+ <hr>
+</body>
+</html>

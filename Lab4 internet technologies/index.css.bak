@@ -9,7 +9,7 @@ body {
 	font-family: 'Grape Nuts', cursive;
 	font-size : 16px;
 	line-height: 1.5;
-	background : #eef;
+	background : #000;
 	text-align : justify;
 	}
 main {
@@ -39,7 +39,7 @@ aside {
   margin-left: 15px;
   float: rightwards;
   font-style: italic;
-  background-color: lightblue;
+  background-color: lightgray;
 }
 nav {
 	float : right;
